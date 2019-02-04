@@ -1,0 +1,24 @@
+{
+  "name": "pdf2img",
+  "version": "1.0.0",
+  "description": "Convert PDF to Images on Client Side",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashifa454/pdf2Img.git"
+  },
+  "keywords": [
+    "pdf",
+    "image",
+    "es6"
+  ],
+  "author": "ashifa454",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashifa454/pdf2Img/issues"
+  },
+  "homepage": "https://github.com/ashifa454/pdf2Img#readme"
+}
